@@ -1,6 +1,6 @@
-# Deface Page Creator: Useless tool
+# Deface Page Creator: A Useless tool
 
-![Project Logo](https://github.com/T3rr8us-P4nk/Deface-Page-Creator/blob/main/logo.png) <!-- Replace with the link to your project logo -->
+<img src="https://github.com/T3rr8us-P4nk/Deface-Page-Creator/blob/main/logo.png" alt="Project Screenshot" width="300" height="250">
 
 ## Overview
 
@@ -15,7 +15,5 @@ Welcome to the Deface Page Creator, where you can create a simple defacement pag
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/T3rr8us-P4nk/Deface-Page-Creator/blob/main/picture1.png)
-![Screenshot 2](https://github.com/T3rr8us-P4nk/Deface-Page-Creator/blob/main/picture2.png)
-
+<img src="https://github.com/T3rr8us-P4nk/Deface-Page-Creator/blob/main/picture1.png" alt="Project Screenshot" width="400" height="200"> <img src="https://github.com/T3rr8us-P4nk/Deface-Page-Creator/blob/main/picture2.png" alt="Project Screenshot" width="400" height="200">
 
